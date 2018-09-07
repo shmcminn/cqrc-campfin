@@ -4,8 +4,8 @@
 
 ### Campaign finance links
 
-* [FEC](www.fec.gov)
-* [OpenSecrets](www.opensecrets.org)
+* [FEC](http://www.fec.gov)
+* [OpenSecrets](http://www.opensecrets.org)
 * [Propublica FEC Itemizer](https://projects.propublica.org/itemizer/)
 
 ### Lobbyists and Political Money links

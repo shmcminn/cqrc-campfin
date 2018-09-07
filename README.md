@@ -1,4 +1,4 @@
-# Training: Campaign Finance
+# Training: Campaign Finance and Other Political Data
 
 [Campaign finance slides](camp-fin-slides.pptx) (Click "Download" on linked page to save to your computer)
 
